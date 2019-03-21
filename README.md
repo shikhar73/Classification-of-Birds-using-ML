@@ -2,13 +2,6 @@
 The Caltech-UCSD Birds-200-2011 Dataset
 ===========================================
 
-For more information about the dataset, visit the project website:
-
-  http://www.vision.caltech.edu/visipedia
-
-If you use the dataset in a publication, please cite the dataset in
-the style described on the dataset website (see url above).
-
 Directory Information
 ---------------------
 
